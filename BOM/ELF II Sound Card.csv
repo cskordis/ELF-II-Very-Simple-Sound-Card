@@ -1,1 +1,19 @@
-
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"C2,C1";"C_Disc_D3.0mm_W1.6mm_P2.50mm";2;"100nF";;;
+2;"C4";"CP_Radial_D5.0mm_P2.50mm";1;"100uF";;;
+3;"SW1";"SW_PUSH_6mm";1;"RESET";;;
+4;"R5,R3";"R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal";2;"18";;;
+5;"P1";"EdgeCardMale86pin";1;"P";;;
+6;"C3";"CP_Radial_D5.0mm_P2.50mm";1;"2.2uF";;;
+7;"R2,R4";"R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal";2;"1K";;;
+8;"J2";"Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical";1;"Speaker";;;
+9;"Q1";"TO-92_Inline";1;"2N3907";;;
+10;"J1";"SWITCHCRAFT_PJRAN1X1U04X";1;"Audio";;;
+11;"RV1";"Potentiometer_Runtron_RM-065_Vertical";1;"10K";;;
+12;"U1";"DIP-14_W7.62mm";1;"74HC14";;;
+13;"R1";"R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal";1;"120K";;;
+14;"D2,D1";"D_DO-35_SOD27_P7.62mm_Horizontal";2;"1N914";;;
+15;"U2";"DIP-16_W7.62mm";1;"CDP1863";;;
+16;"SW2";"SW_Slide_SPDT_Straight_CK_OS102011MS2Q";1;"Switch";;;
+17;"R6";"R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal";1;"330";;;
+18;"D3";"LED_D5.0mm";1;"POWER";;;
