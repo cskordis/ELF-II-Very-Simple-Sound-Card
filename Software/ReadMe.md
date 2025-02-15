@@ -1,7 +1,12 @@
-SimpleMusic.hex is the Intel Hex version
+Three directories exist which contain different program formats as per directory heading
 
-SimpleMusicNSP.txt is the hex in text without spaces
+Programs are :
 
-SimpleMusic.txt is the hex in text spaces between bytes
+  Music Scale - Incrementing tones displaying hex value 
+  
+  Simple Music  - Couple of bars from beethoven's 5th
+  
+  SoundAndBlink - Quickly count hex and play corressponding tone. Similar to Music Scale 
+  
+  Tunes - A cacophony of sounds.      
 
-SlowBlinkQ3 is a modified program of the original SlowBlinkQ to play tones based on hex values from 00 to FF
